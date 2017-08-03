@@ -47,7 +47,7 @@ public class Database {
     public static void main(String args[]) {
         Database db = new Database();
 
-	Staff dosen = new Staff("Anung", 1900, "AE811");
+	Student dosen = new Student("Iqbal", 1998, "064001600005");
 	db.addPerson(dosen);
 	db.listAll();
     }
