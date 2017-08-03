@@ -1,1 +1,2 @@
-hello semua
+public class hendra {
+}
